@@ -89,8 +89,11 @@ Be afraid. Be very afraid. ;)
 
 
 .../ru
+
+-----
 <snip heroin.c>
 -----
+
 Runar Jensen            | Phone  (318) 289-0125 | Email zarq () 1stnet com
 Network Administrator   |   or   (800) 264-7440 |   or  zarq () opaque org
 Tech Operations Mgr     | Fax    (318) 235-1447 | Epage zarq () page 1stnet com
