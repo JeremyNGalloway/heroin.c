@@ -1,6 +1,6 @@
 One of the first _public_ LKM (loadable kernel module) rootkits; posted to Bugtraq in '97 by Runar Jensen
 http://seclists.org/bugtraq/1997/Oct/55
-
+```
 From: zarq () 1STNET COM (Runar Jensen)
 Date: Thu, 9 Oct 1997 00:37:52 -0500
 
@@ -89,4 +89,4 @@ Be afraid. Be very afraid. ;)
 
 
 .../ru
-
+```
